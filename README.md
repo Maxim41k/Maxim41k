@@ -6,6 +6,5 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on AI prompting
-- 🌱 I’m currently learning at school
+- 🌱 I’m currently studying at a Gymnasium, which is a German high school
 - 🤔 I’m looking for help with Java
-
